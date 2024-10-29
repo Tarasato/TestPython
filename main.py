@@ -1,0 +1,5 @@
+print('Hello, World!')
+print('python')
+print('Hello')
+print('Hey')
+print('Hi')
